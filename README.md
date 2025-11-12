@@ -99,18 +99,17 @@
 
 ### 🌍 Activity Graph  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravii333&theme=vue&bg_color=ffffff&hide_border=true" alt="Ravi’s GitHub Activity Graph" />
-</p>
-
-
----
+[![Ravi’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravii333&theme=tokyo-night)](https://github.com/ravii333/github-readme-activity-graph)
 
 ---
 
 ### 🎖 Badges  
 
-[![Ravi’s Holopin Badges](https://holopin.me/ravii333)](https://holopin.io/@ravii333)
+<p align="center">
+  <a href="https://holopin.io/@ravii333">
+    <img src="https://holopin.me/ravii333" alt="Ravi’s Holopin Badges" width="800" />
+  </a>
+</p>
 
 ---
 
