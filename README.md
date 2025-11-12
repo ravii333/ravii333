@@ -39,7 +39,7 @@
 
 #### 💡 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python" height="40" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python" height="40" />
 </p>
 
 #### ⚛️ Frontend
